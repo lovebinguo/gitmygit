@@ -1,0 +1,6 @@
+hello world!
+<<<<<<< HEAD
+hello java!
+=======
+hello python!
+>>>>>>> new_branch
